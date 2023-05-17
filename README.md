@@ -1,4 +1,5 @@
 # US Equity Market Analysis
+
 ### As it relates to each Presidency
 
 The US Equity Market Analysis project is designed to provide insights into the performance of the US equity market during different presidential terms. The US equity market is a key indicator of the country's economic health, and many people believe that the policies and actions of the US government, particularly the president, can have a significant impact on the market. The project downloads market data for a pre-defined list of tickers, including popular indices such as the S&P 500, Dow Jones Industrial Average, NASDAQ, and Russell 2000, as well as the US dollar.
