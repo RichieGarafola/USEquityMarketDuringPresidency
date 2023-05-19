@@ -20,6 +20,7 @@ The project uses Yahoo Finance API to download equity market data for the select
 ---
 
 ## Installation
+
 To run this project, you will need to install the following packages:
 
 - yfinance
@@ -55,6 +56,7 @@ The project follows the following methodology:
 ---
 
 ## Usage
+
 To use this project, simply run script. This will download the equity market data and create separate dataframes for each US president's term in office.
 
 To customize the list of tickers to analyze, simply modify the ticker_list variable at the beginning of the script.
